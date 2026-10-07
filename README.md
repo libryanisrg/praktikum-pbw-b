@@ -62,3 +62,17 @@ Repository untuk Tugas Praktikum PBW
 **Sesudah Modifikasi:**
 ![Screenshot Sesudah Tugas 2](screenshots/identitas1_sesudah.png)
 ![Screenshot Sebelum Tugas 2](screenshots/identitas2_sesudah.png)
+
+---
+
+## Pertemuan 3 - Data Definition Language (DDL)
+
+### Penjelasan Ringkas:
+1. **CREATE DATABASE & TABLE**: Membuat database `akademik` beserta tabel `mahasiswa`, `dosen`, `mata_kuliah`, dan `krs`.
+2. **Primary Key & Foreign Key**: Menghubungkan tabel `krs` dan `mata_kuliah` ke tabel induk (`mahasiswa` & `dosen`).
+3. **Constraints**: Menerapkan validasi `CHECK` untuk nilai IPK (0.00 - 4.00) dan `UNIQUE` pada email.
+
+### Screenshot Hasil:
+![Struktur Tabel Pertemuan 3](screenshots/hasil-p3-1.png)
+![Struktur Tabel Pertemuan 3](screenshots/hasil-p3-2.png)
+![Struktur Tabel Pertemuan 3](screenshots/hasil-p3-3.png)
