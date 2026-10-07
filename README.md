@@ -76,3 +76,16 @@ Repository untuk Tugas Praktikum PBW
 ![Struktur Tabel Pertemuan 3](screenshots/hasil-p3-1.png)
 ![Struktur Tabel Pertemuan 3](screenshots/hasil-p3-2.png)
 ![Struktur Tabel Pertemuan 3](screenshots/hasil-p3-3.png)
+
+---
+
+## Pertemuan 4 - Data Manipulation Language (DML)
+
+### Penjelasan Ringkas:
+1. **INSERT**: Memasukkan baris data mahasiswa baru ke dalam tabel `mahasiswa`.
+2. **SELECT & WHERE**: Menyaring data mahasiswa dengan IPK >= 3.50 dan mengurutkannya.
+3. **UPDATE & DELETE**: Memperbarui IPK mahasiswa serta menghapus baris data berdasarkan NIM.
+4. **GROUP BY**: Merekap jumlah mahasiswa dan rata-rata IPK per program studi.
+
+### Screenshot Hasil:
+![Hasil Query Pertemuan 4](screenshots/hasil-p4.png)
